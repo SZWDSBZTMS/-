@@ -13,9 +13,9 @@ st.write("<左耳>")
 st.write("医学专家说,左耳靠近心脏,甜言蜜语要说给左耳听,如果有个人,对我的左耳说甜言蜜语,即使听不到也没关系")
 
 #图像
-st.image("./resource/Screenshot_20260703_010621.jpg",width=300)
-st.image("./resource/Screenshot_20260703_004812.jpg",width=300)
-st.image("./resource/Screenshot_20260703_004906.jpg",width=300)
+st.image("./新建文件夹/资源/Screenshot_20260703_010621.jpg",width=300)
+st.image("./新建文件夹/资源/Screenshot_20260703_004812.jpg",width=300)
+st.image("./新建文件夹/资源/Screenshot_20260703_004906.jpg",width=300)
 
 #视频
 st.video("./resource/video_20260703_003031.mp4")
