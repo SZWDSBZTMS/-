@@ -29,4 +29,4 @@ actor_data = {
 }
 
 #图片
-st.image(image="./resource/",width=300)
+st.image(image="./resource/79bdb7250721c52430f1aa8a7555812f.png",width=300)
