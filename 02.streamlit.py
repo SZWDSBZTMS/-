@@ -27,6 +27,6 @@ actor_data = {
     "首部出道作品": ["电影《左耳》（2015年上映）"],
     "毕业院校": ["南京航空航天大学 飞行器制造工程专业"]
 }
-
+st.table(actor_data )
 #图片
 st.image(image="./resource/79bdb7250721c52430f1aa8a7555812f.png",width=300)
