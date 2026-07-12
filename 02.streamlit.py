@@ -4,7 +4,7 @@ st.set_page_config(
     page_title="陈都灵",
     page_icon="🐰",
     # 布局
-    layout="middle",
+    layout="wide",
 )
 
 
