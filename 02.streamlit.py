@@ -18,3 +18,15 @@ st.image(image="./resource/Screenshot_20260703_004906.jpg",width=300)
 st.video("./resource/video_20260703_003031.mp4")
 #logo
 st.logo("./resource/IMG_20260706_125910.jpg")
+
+#表格
+actor_data = {
+    "姓名": ["陈都灵"],
+    "出生日期": ["1993年10月18日"],
+    "出生地": ["福建省厦门市"],
+    "首部出道作品": ["电影《左耳》（2015年上映）"],
+    "毕业院校": ["南京航空航天大学 飞行器制造工程专业"]
+}
+
+#图片
+st.image(image="./resource/",width=300)
