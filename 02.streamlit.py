@@ -1,4 +1,12 @@
 import streamlit as st
+# 设置页面的配置项
+st.set_page_config(
+    page_title="陈都灵",
+    page_icon="📦",
+    # 布局
+    layout="wide",
+)
+
 
 # 大标题
 st.title("陈都灵")
